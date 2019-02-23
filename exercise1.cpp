@@ -40,4 +40,3 @@ double average(double x, double y)
 }
 
 // child_1
-// child_2
