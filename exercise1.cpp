@@ -38,3 +38,6 @@ double average(double x, double y)
 	temp= 2.0*x*y/(x+y);
 	return temp;
 }
+
+// child_1
+// child_2
